@@ -1,4 +1,5 @@
 ### Tutorials & Videos
+* [it's Brainf**k , but types only](https://www.youtube.com/watch?v=DUjRBaJM01E)
 * [Fun with advanced TypeScript](https://www.youtube.com/watch?v=nNse0r0aRT8) - 
 * [i18n Keys](https://www.youtube.com/watch?v=Wt1J-LQ_n7M) - [Challenge](https://tsplay.dev/ND2q4W) - [Solution](https://tsplay.dev/wEPgkW)
 * [TypeScript Split type](https://www.youtube.com/watch?v=hLrBK3KYU50) - [challange](https://tsplay.dev/m0nEqw) - [solution](https://tsplay.dev/NV4KqW)
